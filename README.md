@@ -6,8 +6,6 @@ Sou apaixonado por tecnologia, programação e por transformar ideias em soluç�
 
 ---
 
-###### 🚀 Tecnologias e Ferramentas que domino
-
 ### 📌 Linguagens
 
 * Java ☕ (POO, modularidade, acoplamento, coesão)
