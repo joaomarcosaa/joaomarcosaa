@@ -44,7 +44,4 @@ Sou apaixonado por tecnologia, programação e por transformar ideias em soluç�
 
 ###
 
-<img src="https://raw.githubusercontent.com/joaomarcosaa/joaomarcosaa/output/snake.svg" alt="Snake animation" />
-
-###
 
