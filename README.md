@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Salve!! Eu sou o João Marcos
 
-<!--
-**joaomarcosaa/joaomarcosaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Desenvolvedor em Evolução
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia, programação e por transformar ideias em soluções reais. Atualmente estudo **desenvolvimento**, trabalho em diversos **projetos acadêmicos**, e estou sempre criando algo novo — desde **projetos Java**, **projetos em Python** até **estruturas de redes**, **HTML/CSS/JV**, e muito mais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###### 🚀 Tecnologias e Ferramentas que domino
+
+### 📌 Linguagens
+
+* Java ☕ (POO, modularidade, acoplamento, coesão)
+* Python 🐍
+* HTML / CSS / JavaScript 🌐
+* C++ ⚙️
+
+### 🛠️ Ferramentas / DevOps
+
+* AWS EC2 ☁️
+* Squid Proxy
+* WireGuard VPN
+* Servidores Linux (Ubuntu)
+* Git & GitHub
+
+### 🧰 Outras habilidades
+
+* Modelagem de software (Casos de uso, RF/RNF)
+* Configuração de domínios e DNS
+* Design básico e edição de imagens
+
+---
+
+## 📚 Projetos que estou construindo
+
+* 🔹 **Sistema Orientado a Objetos em Java** 
+* 🔹 **Configuração de VPN com WireGuard**
+* 🔹 **Servidor Proxy com Squid**
+* 🔹 **Site de review / blog técnico**
+* 🔹 **Landing Page freelancer**
+
+> Sempre evoluindo e adicionando novos projetos conforme aprendo mais
+
+---
+
