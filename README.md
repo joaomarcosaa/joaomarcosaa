@@ -38,8 +38,8 @@ Sou apaixonado por tecnologia, programação e por transformar ideias em soluç�
   <a href="https://x.com/joaomarcosaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a>
-  <a href="[https://w.app/if0fpu](https://wa.me/5517981566614)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="30" alt="whatsapp logo"  />
+  <a href="https://wa.me/5517981566614?text=Ol%C3%A1%20vim%20pelo%20seu%20github%2C%20queria%20mais%20informa%C3%A7%C3%B5es!" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="30" alt="whatsapp logo" />
   </a>
 </div>
 
